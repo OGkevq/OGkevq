@@ -41,7 +41,7 @@ I am a recent graduate with a profound passion for cybersecurity and a dedicated
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white""https://www.credly.com/badges/527d0cac-4d3e-4f06-93ed-8acaf8389bdd/linked_in_profile" />
+<a href=https://www.credly.com/badges/527d0cac-4d3e-4f06-93ed-8acaf8389bdd/linked_in_profile><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
