@@ -8,7 +8,7 @@ I am a recent graduate with a profound passion for cybersecurity and a dedicated
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/OGkevq/Windows-Defender-Firewall-Lab/tree/main">Windows Defender and Firewall Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -45,5 +45,5 @@ I am a recent graduate with a profound passion for cybersecurity and a dedicated
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/OGkevq/Windows-Defender-Firewall-Lab/tree/main">Windows Defender and Firewall Lab</a>
 - SOC Automation Project
