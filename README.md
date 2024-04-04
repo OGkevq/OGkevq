@@ -10,7 +10,7 @@ I am a recent graduate with a profound passion for cybersecurity and a dedicated
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/OGkevq/Windows-Defender-Firewall-Lab/tree/main">Windows Defender and Firewall Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OGkevq/IPTables_Firewall-Rules_Lab/tree/main">IP Tables Firewall Rules Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/OGkevq/Traffic-Capture-with-Wireshark/tree/main">Traffic Capture with Wireshark Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -46,4 +46,5 @@ I am a recent graduate with a profound passion for cybersecurity and a dedicated
 
 ## Projects
 - <a href="https://github.com/OGkevq/Windows-Defender-Firewall-Lab/tree/main">Windows Defender and Firewall Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/OGkevq/IPTables_Firewall-Rules_Lab/tree/main">IP Tables Firewall Rules Lab</a>
+- <a href="https://github.com/OGkevq/Traffic-Capture-with-Wireshark/tree/main">Traffic Capture with Wireshark Lab
