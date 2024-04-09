@@ -48,4 +48,4 @@ I am a recent graduate with a profound passion for cybersecurity and a dedicated
 - <a href="https://github.com/OGkevq/Windows-Defender-Firewall-Lab/tree/main">Windows Defender and Firewall Lab</a>
 - <a href="https://github.com/OGkevq/IPTables_Firewall-Rules_Lab/tree/main">IP Tables Firewall Rules Lab</a>
 - <a href="https://github.com/OGkevq/Traffic-Capture-with-Wireshark/tree/main">Traffic Capture with Wireshark Lab
-- <a href="https://github.com/OGkevq/Bitcoin-Mock-Money-Laundering-Case/tree/main"> Bitcoin: Mock Money Laundering Case</a>|
+- <a href="https://github.com/OGkevq/Bitcoin-Mock-Money-Laundering-Case/tree/main"> Bitcoin: Mock Money Laundering Case</a>
