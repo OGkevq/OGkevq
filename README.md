@@ -4,7 +4,6 @@
 I am a recent graduate with a profound passion for cybersecurity and a dedicated commitment to combating cybercrime. Please take a moment to explore my projects below, showcasing how I've actively honed my cybersecurity skills. Thank you for your time and consideration!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
