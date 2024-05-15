@@ -11,8 +11,7 @@ I am a recent graduate with a profound passion for cybersecurity and a dedicated
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OGkevq/IPTables_Firewall-Rules_Lab/tree/main">IP Tables Firewall Rules Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/OGkevq/Traffic-Capture-with-Wireshark/tree/main">Traffic Capture with Wireshark Lab|
 | Incident Response Planning and Execution      | <a href="https://github.com/OGkevq/Bitcoin-Mock-Money-Laundering-Case/tree/main"> Bitcoin: Mock Money Laundering Case</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Completing Common Active Directory Tasks      | <a href="https://github.com/OGkevq/HTB-Active-Directory/blob/main/README.md"> HTB Acive Directory Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -48,3 +47,4 @@ I am a recent graduate with a profound passion for cybersecurity and a dedicated
 - <a href="https://github.com/OGkevq/IPTables_Firewall-Rules_Lab/tree/main">IP Tables Firewall Rules Lab</a>
 - <a href="https://github.com/OGkevq/Traffic-Capture-with-Wireshark/tree/main">Traffic Capture with Wireshark Lab
 - <a href="https://github.com/OGkevq/Bitcoin-Mock-Money-Laundering-Case/tree/main"> Bitcoin: Mock Money Laundering Case</a>
+- <a href="https://github.com/OGkevq/HTB-Active-Directory/blob/main/README.md"> HTB Acive Directory Lab
