@@ -1,7 +1,7 @@
 # Hello, I'm Kevin
 <a href=https://www.linkedin.com/in/kevin-quintana-35b089209/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound passion for cybersecurity and a dedicated commitment to combating cybercrime. Please take a moment to explore my projects below, showcasing how I've actively honed my cybersecurity skills. Thank you for your time and consideration!
+I am a recent graduate with a profound passion for cybersecurity and a dedicated commitment to combating cybercrime. Please take a moment to explore my projects below, showcasing how I've actively honed my IT & cybersecurity skills. Thank you for your time and consideration!
 
 ## Skills
 
