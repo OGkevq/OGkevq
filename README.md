@@ -13,6 +13,8 @@ I am a graduate with a profound passion for cybersecurity and a dedicated commit
 | Packet sniffing with Wirshark, Network Protocals        | <a href="https://github.com/OGkevq/Traffic-Capture-with-Wireshark/tree/main">Traffic Capture with Wireshark Lab|
 | Blockchain Analysis, Investigation & Report Writing      | <a href="https://github.com/OGkevq/Bitcoin-Mock-Money-Laundering-Case/tree/main"> Bitcoin: Mock Money Laundering Case</a>|
 | Completing Common Active Directory Tasks/IAM tasks      | <a href="https://github.com/OGkevq/HTB-Active-Directory/blob/main/README.md"> HTB Acive Directory Lab|
+| Create Domain from scratch, Implement RBAC, Resolved JIRA Ticket       | <a href="https://github.com/OGkevq/Basic-Employing-Onboarding-AD-RBAC-/blob/main/README.md"> Employee Onboarding Lab|
+
 
 
 ## Tools
