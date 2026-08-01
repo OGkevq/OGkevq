@@ -40,3 +40,4 @@ I am a graduate with a profound passion for cybersecurity and a dedicated commit
 - <a href="https://github.com/OGkevq/Bitcoin-Mock-Money-Laundering-Case/tree/main"> Bitcoin: Mock Money Laundering Case</a>
 - <a href="https://github.com/OGkevq/HTB-Active-Directory/blob/main/README.md"> HTB Acive Directory Lab</a>
 - <a href="https://github.com/OGkevq/HTB-Active-Directory/blob/main/README.md"> Threat Detection Lab</a>
+- <a href="https://github.com/OGkevq/Basic-Employing-Onboarding-AD-RBAC-/blob/main/README.md"> Employee Onboarding Lab|
